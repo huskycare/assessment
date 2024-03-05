@@ -25,16 +25,16 @@ You are tasked with creating a simplified part of an Employee Management System 
 
 ## Deliverables:
 
-[ ] Source code for the Employee class, EmployeeService interface, and its implementation.
-[ ] Source code for the storage mechanism.
-[ ] Unit tests
+- [ ] Source code for the Employee class, EmployeeService interface, and its implementation.
+- [ ] Source code for the storage mechanism.
+- [ ] Unit tests
 
 ## Evaluation Criteria:
 
-[ ] Correctness and completeness of the implementation.
-[ ] Code quality, including readability, use of best practices, and adherence to Java coding conventions.
-[ ] Design and architecture of the solution, including the use of design patterns where appropriate.
-[ ] Effectiveness and coverage of unit tests.
+- [ ] Correctness and completeness of the implementation.
+- [ ] Code quality, including readability, use of best practices, and adherence to Java coding conventions.
+- [ ] Design and architecture of the solution, including the use of design patterns where appropriate.
+- [ ] Effectiveness and coverage of unit tests.
 
 ## Appendix 
 
